@@ -88,7 +88,7 @@ The `assets/screenshots/` folder is reserved for illustrative interface mockups.
 
 **Author:** Sayyed Hamja  
 **Contact:** hamzaxsaiyed17@gmail.com  
-**Profile:** https://github.com/your-username
+**Profile:** https://github.com/Hamzax17
 
 This portfolio is a writing sample. It is not affiliated with, endorsed by or derived from the documentation of any real company or product.
 
